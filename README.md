@@ -3,10 +3,10 @@
   A simple wrapper to control and capture a VLC stream.  My primary use case is to record wired/wireless foscams planted around the house. 
   A 30 minitue recording results in about 230MB of data give depending on video stream
   
-Assuming 100GB of free space and average 230mb for 30 minutes
-1xcam = 222 hours per cam ( 9 days )
-2xcam = 111 hours per cam ( 4 days )
-3xcam = 74  hours per cam ( 3 days )
+Assuming 100GB of free space and average 230mb for 30 minutes<br>
+1xcam = 222 hours per cam ( 9 days )<br>
+2xcam = 111 hours per cam ( 4 days )<br>
+3xcam = 74  hours per cam ( 3 days )<br>
 
 Usage:
 ```
